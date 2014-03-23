@@ -329,9 +329,9 @@ hr {
 
   $base: 2;
   $exponent: 1;
-  $limit: 11;
+  $limit: 12;    // Bonus picture (aki-p) for 4096
 
-  // Colors for all 11 states, false = no special color
+  // Colors for all 12 states, false = no special color
   $special-colors: #eee4da false, // 2
                    #ede0c8 false, // 4
                    #bb9bbf false, // 8
@@ -343,6 +343,7 @@ hr {
                    #4da66d true, // 512
                    #89a9d7 true, // 1024
                    #c76d5c true; // 2048
+				   #3c3a32 true; // 4096
 
    $tile-akb48:  url('../im/sakura.jpg'), // 2
                  url('../im/milky.jpg'), // 4
@@ -355,6 +356,7 @@ hr {
                  url('../im/mayuyu.jpg'), // 512
                  url('../im/yuko.jpg'), // 1024
                  url('../im/acchan.jpg'); // 2048
+				 url('../im/akiP.jpg'); //4096
 
   // Build tile colors
   @while $exponent <= $limit {
@@ -389,7 +391,7 @@ hr {
     $exponent: $exponent + 1;
   }
 
-  // Super tiles (above 2048)
+  // Super tiles (above 4096)
   &.tile-super .tile-inner {
     color: $bright-text-color;
     background: mix(#333, $tile-gold-color, 95%);
