@@ -317,7 +317,7 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
-    background-image: url("../im/sakura.jpg");
+    background-image: url("../im/1.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -325,7 +325,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    background-image: url("../im/milky.jpg");
+    background-image: url("../im/2.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -333,7 +333,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: #bb9bbf;
-    background-image: url("../im/sayanee.png");
+    background-image: url("../im/3.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -341,7 +341,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     background: #f8a389;
-    background-image: url("../im/rena.jpg");
+    background-image: url("../im/4.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -349,7 +349,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
     background: #d8b74d;
-    background-image: url("../im/jurina.jpg");
+    background-image: url("../im/5.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -357,7 +357,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
   .tile.tile-64 .tile-inner {
     background: #f0a751;
-    background-image: url("../im/takamina.jpg");
+    background-image: url("../im/6.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -365,42 +365,42 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
   .tile.tile-128 .tile-inner {
     background: #7e8c87;
-    background-image: url("../im/mariko.jpg");
+    background-image: url("../im/7.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-256 .tile-inner {
     background: #fbeb76;
-    background-image: url("../im/yukirin.jpg");
+    background-image: url("../im/8.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-512 .tile-inner {
     background: #4da66d;
-    background-image: url("../im/mayuyu.jpg");
+    background-image: url("../im/9.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-1024 .tile-inner {
     background: #89a9d7;
-    background-image: url("../im/yuko.jpg");
+    background-image: url("../im/10.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
     background: #c76d5c;
-    background-image: url("../im/acchan.jpg");
+    background-image: url("../im/11.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-4096 .tile-inner {
     background: #3c3a32;
-    background-image: url("../im/akiP.jpg");
+    background-image: url("../im/12.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
