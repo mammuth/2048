@@ -21,7 +21,9 @@ h1.title {
   margin: 0;
   display: block;
   float: left; }
-
+.allBeardsImage {
+    max-width: 500px;
+}
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
